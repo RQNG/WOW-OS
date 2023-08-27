@@ -1,12 +1,14 @@
 # WoW-UI
 
-此项目为 WouoUI 的精简和优化版本，又名 WouoUI - Lite_General_Pro_Plus_Ultra 
+此项目为 WouoUI 的精简和优化版本，又名 WouoUI - Lite_General_Pro_Plus_Ultra
+
+演示视频：https://www.bilibili.com/video/BV1Kp4y1J7WG/
 
 # 功能特性
 
 与 WouoUI - Lite_General 相比，减少的功能和特性：
 
-* 主题切换：去除了白色主题遮罩
+* 主题切换：去除了白色主题滤镜
 * 列表循环：去除了选择框在头尾继续操作时，跳转至另一头的功能
 * 任意行高：去除了支持屏幕高度与行高度不能整除的特性，这个版本需要能够整除
 * 背景虚化：去除了弹窗背景虚化的可选项
